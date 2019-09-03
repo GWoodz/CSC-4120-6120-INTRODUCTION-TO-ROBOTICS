@@ -28,5 +28,5 @@
    <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/BatteryLevel.png" width="800" height="400">
    
  * Motor
-  -Test motors and display pass/fail results
-  <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/BatteryLevel.png" width="800" height="400">
+   -Test motors and display pass/fail results
+   <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/BatteryLevel.png" width="800" height="400">
