@@ -1,4 +1,4 @@
 ## FristRideAround
 
   * Control Board Keys
-    - ![ControlBoard](ModuleOne/Photos/Exercise3ControlKeys.png)
+    - screenshot of CtrlBoard ![](/ModuleOne/Photos/Exercise3ControlKeys.png)
