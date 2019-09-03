@@ -18,4 +18,4 @@
 ## FristRideAround
 
   * Control Board Keys
-    - CtrlBoard keys showing once connected to bot and running button code. <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/Exercise3ControlKeys.png" width="800" height="300">
+    - CtrlBoard keys showing once connected to bot and running button code. <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/Exercise3ControlKeys.png" width="800" height="400">
