@@ -1,4 +1,5 @@
  ## Environment 
+ 
  * Bot assembled
  
    - Full basic build, green LED active once powerd on.
@@ -15,27 +16,38 @@
 
 
 
+
 ## FristRideAround
 
-  * Control Board Keys
+  * `Control Board Keys`
+  
     - CtrlBoard keys showing once connected to bot and running button code. <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/Exercise3ControlKeys.png" width="800" height="400">
     
-    
+
+
 ## Hardware Testing
 
  * Battery Test
+ 
    - Displaying battery voltage.
    <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/BatteryLevel.png" width="800" height="400">
    
    
  * `Manufacturer Test`
+ 
    - Displaying manufacturer's details.
   <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/HardwareInfoCheck.png" width="800" height="400">
  
- * Motor Test
+ 
+ 
+ * `Motor Test`
+ 
     - Test motors and display pass/fail results. 
     <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/HardwareTest.png" width="800" height="400">
-   
- * Encoder Test
+ 
+ 
+ 
+ * `Encoder Test`
+ 
    - Display pass/fail of encoder reset.
    <img src="https://github.com/GWoodz/CSC-4120-6120-INTRODUCTION-TO-ROBOTICS/blob/master/ModuleOne/Photos/DriveTest.png" width="800" height="400">
